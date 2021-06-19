@@ -38,8 +38,8 @@ Ces informations sont lisibles depuis le site internet mais aussi via l’Instag
 	LIEN UTILES :
 	
 	
-	SITE INTERNET :	https://conseauproject.com/
+	SITE INTERNET :	[url]https://conseauproject.com/[/url]
 
-	GITHUB : https://github.com/QuentinPoudoulec/ConseauProject
+	GITHUB : [url]https://github.com/QuentinPoudoulec/ConseauProject[/url]
 
-	INSTAGRAM : https://www.instagram.com/conseauproject/
+	INSTAGRAM : [url]https://www.instagram.com/conseauproject/[/url]
