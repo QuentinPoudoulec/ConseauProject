@@ -40,6 +40,6 @@ Ces informations sont lisibles depuis le site internet mais aussi via l’Instag
 	
 	SITE INTERNET :	https://conseauproject.com/
 
-	GITHUB : 	https://github.com/QuentinPoudoulec/ConseauProject
+	GITHUB : https://github.com/QuentinPoudoulec/ConseauProject
 
 	INSTAGRAM : https://www.instagram.com/conseauproject/
