@@ -1,0 +1,10 @@
+2 ways 2 program Attiny85
+
+
+I ===== Sparkfun Attiny programmer =====
+https://learn.sparkfun.com/tutorials/tiny-avr-programmer-hookup-guide/?_ga=2.146954615.1595541854.1624026861-643848112.1592816224#introduction
+
+
+
+II ===== Aruino as ISP =====
+https://create.arduino.cc/projecthub/arjun/programming-attiny85-with-arduino-uno-afb829
